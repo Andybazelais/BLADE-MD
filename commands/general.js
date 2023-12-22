@@ -136,13 +136,10 @@ cmd({
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* https://github.com/Bladeh4x/BLADE-MD
-*Group:* https://chat.whatsapp.com/ErxOiX1qQgk9phDJhnUiDQ
-*public grp:* https://chat.whatsapp.com/FLHNgJ19pZG48S7l6ucSn8
-*scan Qr:* https://replit.com/@Bladeh4x/BLADE-MD-V2-1?v=1
-*youtube tt:* https://youtu.be/YLG9OYERa5I?si=1e5cbrtKVc8aL5BI
-*Deploy Your Own:*-
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD&template=https%3A%2F%2Fgithub.com%2FBladeh4x%2FBLADE-MD`
+*🍁 Repo:* https://github.com/khadherinc/ELLIE-V2
+*Group:* https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH
+*website:*https://khadheroffcl.replit.app/
+*owner*:wa.me/917560920774`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
