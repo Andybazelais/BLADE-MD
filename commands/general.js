@@ -137,8 +137,11 @@ cmd({
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
 *🍁 Repo:* https://github.com/khadherinc/ELLIE-V2
+_________________________________________________________
 *Group:* https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH
-*website:*https://khadheroffcl.replit.app/
+
+*website*:https://khadheroffcl.replit.app/
+
 *owner*:wa.me/917560920774`
         let buttonMessaged = {
             image: { url: await botpic() },
